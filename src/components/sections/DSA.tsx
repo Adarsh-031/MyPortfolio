@@ -14,6 +14,9 @@ export function DSA() {
           Achievements
         </h3>
         <ul className="space-y-4 text-zinc-600 dark:text-zinc-400">
+          <AchievementItem text="🥉 Second Runner-up in Algomania, an inter-college Competitive Programming contest organized by Encode.ai, PESU and sponsored by e6data"/>
+          <AchievementItem text="🏆 Winner in CodeWars, A Competitive Programming contest organized as a part of TechSolstice 26' Technical fest of MIT BLR"/>
+          <AchievementItem text="🥉 Second Runner-up in CTF challenge @TechSolstice 26' MIT BLR"/>
           <AchievementItem text="Awarded with Dr. M R Doreswamy Merit Scholarship for being amongst the top 5% CGPA in the Department (PES University)" />
           <AchievementItem text="2x Prof.C N R Rao Merit Scholarship Recipient (PES University)" />
           <AchievementItem text="Top 7th Performer in CrackTheCode coding event organized by IIT Madras and sponsored by GeeksForGeeks and CodeChef" />
